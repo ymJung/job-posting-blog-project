@@ -1,0 +1,16 @@
+{
+  "success": true,
+  "data": {
+    "employment_company_id": 12345,
+    "employment_id": 67890,
+    "title": "2024년 상반기 신입/경력 개발자 채용",
+    "company_name": "예시 기업",
+    "view_count": 150,
+    "resume_count": 120,
+    "created_at": "2024-12-01T00:00:00Z",
+    "updated_at": "2024-12-07T00:00:00Z",
+    "deadline": "2024-12-31T00:00:00Z",
+    "description": "신입/경력 개발자를 모집합니다..."
+  },
+  "message": "Success"
+}
